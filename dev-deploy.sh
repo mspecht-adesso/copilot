@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# NOT FOR USE, NOT TESTED, UNDER DEVELOPMENT
+
 # ip adresses for dev, stage, and prod
 DEV_IP: 172.20.20.84
 STAGE_IP: 45.144.133.39
