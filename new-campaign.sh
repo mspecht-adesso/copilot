@@ -25,5 +25,8 @@ git push origin "campaign/$branch_name/release/prod"
 # checkout the dev branch
 git checkout "campaign/$branch_name/dev"
 
+exit
+
+
 # change the permissions of the new-campaign.sh file if needed
 # sudo chmod -R 777 ./new-campaign.sh
